@@ -1,0 +1,5 @@
+3*(2+8) - ERROR
+1,25*2 - ERROR
+2*(-3) i 2*-3 - ERROR
+10-0 - Infinity, netacno
+5000000000+2 - daje 5.0E9, umjesto 5 milijardi i 2
